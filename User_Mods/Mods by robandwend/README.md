@@ -47,6 +47,6 @@ Note that I've moved the PI above the Robin to ease plug and card insertion. Thi
 
 A simple PSU box has been made to fit a 'standard?' size PSU, it connects to the frame using a simple L bracket. If you don't have the taller Base - then the connections for the bracket (or the bracket) will need changing.
 
-![Image](./Images/psu1.jpg)
-![Image](./Images/psu2.jpg)
+![Image](./Images/psu1.JPG)
+![Image](./Images/psu2.JPG)
 
