@@ -22,3 +22,9 @@ The Base plate is designed to cover up any electronics added under the bed, and 
 Rook Graphic added
 
 ![Image](./Images/topplate.JPG)
+
+## Idlers
+
+These have been rook-ified (otherwise should fit exactly as before)
+
+![Image](./Images/RightIdler.gif)
