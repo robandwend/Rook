@@ -31,7 +31,7 @@ These have been rook-ified (otherwise should fit exactly as before)
 
 ## Base
 
-The base has been extended to fit a Mini12864 display - with a front facing Card Slot https://www.aliexpress.com/item/1005003004180753.html. If no display required, you could just use 4 of the rear legs.
+The base has been extended to fit a Mini12864 display - with a front facing Card Slot https://www.aliexpress.com/item/1005003004180753.html . If no display required, you could just use 4 of the rear legs.
 
 ## Mounts
 
@@ -39,7 +39,7 @@ Three mounts are available for an orange-pi (4 lts) a MKS Robin E3 v1.1 board (t
 
 Note that I've moved the PI above the Robin to ease plug and card insertion. This requires the extra high offered by the base changes.
 
-![Image](./Images/mounts.jpg)
+![Image](./Images/mounts.JPG)
 ![Image](./Images/under.jpg)
 
 
@@ -48,5 +48,19 @@ Note that I've moved the PI above the Robin to ease plug and card insertion. Thi
 A simple PSU box has been made to fit a 'standard?' size PSU, it connects to the frame using a simple L bracket. If you don't have the taller Base - then the connections for the bracket (or the bracket) will need changing.
 
 ![Image](./Images/psu1.JPG)
-![Image](./Images/psu2.jpg)
+![Image](./Images/psu2.JPG)
 
+## Y Linear Rods
+
+These were printed in PLA from https://www.printables.com/model/338778, simply because getting them delivered was taking forever.
+
+![Image](./Images/linearrod.JPG)
+
+## Z-Endstop
+
+This is designed to fit a d2fc-f-7n style micro-switch (found in many PC mice). The design can be placed on any corner of the original design using a single screw. It has an adjustment hole to allow the height to changed slightly if needed.
+
+Printing without supports is a challenge with this one, however it can be done by printing standing on its smallest end. Personally I used support-filament to make it easier.
+
+![Image](./Images/microswitch.JPG)
+![Image](./Images/microswitch2.JPG)
