@@ -50,11 +50,6 @@ A simple PSU box has been made to fit a 'standard?' size PSU, it connects to the
 ![Image](./Images/psu1.JPG)
 ![Image](./Images/psu2.JPG)
 
-## Y Linear Rods
-
-These were printed in PLA from https://www.printables.com/model/338778, simply because getting them delivered was taking forever.
-
-![Image](./Images/linearrod.JPG)
 
 ## Z-Endstop
 
@@ -64,3 +59,17 @@ Printing without supports is a challenge with this one, however it can be done b
 
 ![Image](./Images/microswitch.JPG)
 ![Image](./Images/microswitch2.JPG)
+
+## X-Carriage
+
+I found the suggested screws would not fasten in enough to fully tighten the belts (bottoming out too early), so I modified the X Carriage to reduce the screw head depth by 1.5mm. This has no other affect on the part. - X_Carriage_CR10_Style(4 longer screws).stl
+
+![Image](./Images/XCarriage.JPG)
+
+## DRAGONHEAD
+
+![Image](./Images/dragoninposition.JPG)
+![Image](./Images/dragoninposition2.JPG)
+
+A pre-coloured (Bambu AMS format) is available
+![Image](./Images/dragonhead.JPG)
