@@ -73,3 +73,8 @@ I found the suggested screws would not fasten in enough to fully tighten the bel
 
 A pre-coloured (Bambu AMS format) is available
 ![Image](./Images/dragonhead.JPG)
+
+## BAMBU HOTEND
+
+I decided to use my spare bambulabs hotend - it worked REALLY well, and I'd definitely use one again.
+![Image](./Images/BambuHotend.JPG)
